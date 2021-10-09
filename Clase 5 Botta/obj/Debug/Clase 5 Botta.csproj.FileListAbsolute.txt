@@ -1,0 +1,10 @@
+E:\Nicolas\Facultad\2do Cuatrimestre\Programacion II\Parcial 1\Clase 5 botta\Clase 5 Botta\obj\Debug\Clase 5 Botta.csprojAssemblyReference.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Programacion II\Parcial 1\Clase 5 botta\Clase 5 Botta\obj\Debug\Clase_5_Botta.FrmProductos.resources
+E:\Nicolas\Facultad\2do Cuatrimestre\Programacion II\Parcial 1\Clase 5 botta\Clase 5 Botta\obj\Debug\Clase_5_Botta.Properties.Resources.resources
+E:\Nicolas\Facultad\2do Cuatrimestre\Programacion II\Parcial 1\Clase 5 botta\Clase 5 Botta\obj\Debug\Clase 5 Botta.csproj.GenerateResource.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Programacion II\Parcial 1\Clase 5 botta\Clase 5 Botta\obj\Debug\Clase 5 Botta.csproj.CoreCompileInputs.cache
+E:\Nicolas\Facultad\2do Cuatrimestre\Programacion II\Parcial 1\Clase 5 botta\Clase 5 Botta\bin\Debug\Clase 5 Botta.exe.config
+E:\Nicolas\Facultad\2do Cuatrimestre\Programacion II\Parcial 1\Clase 5 botta\Clase 5 Botta\bin\Debug\Clase 5 Botta.exe
+E:\Nicolas\Facultad\2do Cuatrimestre\Programacion II\Parcial 1\Clase 5 botta\Clase 5 Botta\bin\Debug\Clase 5 Botta.pdb
+E:\Nicolas\Facultad\2do Cuatrimestre\Programacion II\Parcial 1\Clase 5 botta\Clase 5 Botta\obj\Debug\Clase 5 Botta.exe
+E:\Nicolas\Facultad\2do Cuatrimestre\Programacion II\Parcial 1\Clase 5 botta\Clase 5 Botta\obj\Debug\Clase 5 Botta.pdb
